@@ -1,0 +1,4 @@
+if i_was == 'happy':
+	worry-=
+else:
+	print("IDK")
