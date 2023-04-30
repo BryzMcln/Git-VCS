@@ -1,4 +1,4 @@
 if i_was == 'joking':
-	they = 'laughing'
+	them = 'laughing'
 else:
 	i_was = None

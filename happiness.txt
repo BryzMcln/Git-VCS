@@ -1,4 +1,4 @@
 if i_was == 'happy':
-	worry-=
+	worriness-=
 else:
 	print("IDK")
