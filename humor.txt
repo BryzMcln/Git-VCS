@@ -1,0 +1,4 @@
+if i_was == 'joking':
+	they = 'laughing'
+else:
+	i_was = None
